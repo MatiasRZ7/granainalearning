@@ -37,7 +37,7 @@ export const GROUP_LIST: GroupListProps[] = [
   },
   {
     id: "3",
-    label: "Buisness",
+    label: "Business",
     icon: <Buisness />,
     path: "buisness",
   },
